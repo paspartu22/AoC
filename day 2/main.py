@@ -1,14 +1,13 @@
 
 
-print ( sum ([(((ord(line[2])-88)*3) + ((ord(line[0])-64) - 1 + ((ord(line[2])-88) - 1)) % 3 + 1) for line in open ("day 2/input.txt", "r")]))
+print ( sum ([(( (ord(line[2])-88)*3) + ((ord(line[0]) - 64) - 1 + ((ord(line[2]) - 88) - 1)) % 3 + 1) for line in open ("day 2/input.txt", "r")] ) )
 
 #moves_2 = {"A" : 1, "B" : 2, "C" : 3, "X" : 0, "Y" : 3, "Z" : 6}
 #print(ord("C") - 64) "A", "B" "C" to 1,2,3
 #print((ord("Z")-88) * 3) "X", "Y", "Z" to 0,1,2 or 0,3,6
 
 ''' part 2
-with open ("day 2/input.txt", "r") as file:
-        
+with open ("day 2/input.txt", "r") as file: 
     for line in file:
         score += moves_2[line[2]] + (moves_2[line[0]] - 1 + (moves_2[line[2]]//3 - 1)) % 3 + 1 # -1 drop to base3, -1 to 
         print (f"{moves_2[line[0]]} {moves_2[line[2]]} {(moves_2[line[0]] - 1 + (moves_2[line[2]]//3 - 1)) % 3 + 1}")
