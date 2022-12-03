@@ -10,21 +10,21 @@ print(sum([max([(ord(letter)- 96 if letter.islower() else ord(letter) - 38)
 
 
 
-'''
+''' part_2
 
-set = {}
-
-score_2 = [ord(letter)- 96 if letter.islower() else ord(letter) - 38 for letter in set[0] if i%3==2 else 0 set[i%3] for i,line in enumerate(open("data.txt","r"))]
-print 
-for i,line in enumerate(open("data.txt", "r")):
-    set[i%3] = line
-    if i % 3 == 2: 
-        for letter in set[0]:
-            if letter in set[1] and letter in set[2]:
-                score_2[i] = ord(letter)- 96 if letter.islower() else ord(letter) - 38
-                break
-print(score_2)
-print(sum(score_2))
+with open("data.txt", "r") as file:
+    set = {0:"", 1:"", 2:""}
+    score = 0
+        
+    for i,line in enumerate(file):
+        set[i%3] = line
+        if i % 3 == 2:
+            for letter in set[0]:
+                if letter in set[1] and letter in set[2]:
+                    score += ord(letter)- 96 if letter.islower() else ord(letter) - 38
+                    break
+    print(score)
+    
 '''
 
 
