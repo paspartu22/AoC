@@ -18,22 +18,47 @@ crates = {1:["D","H","N","Q","T","W","V","B"],
           6:["B","W","F","T","N"],
           7:["B","L","D","Q","F","H","V","N"],
           8:["H","P","F","R"],
-          9:["Z","S","M","B","L","N","P","H"]}
+          9:["Z","S","M","B","L","N","P","H"]} #hardcoded
+
+stack = {} #parcing
 
 with open ("data.txt", "r") as file:
-    print ("start")
-    for line in file:
-        split = line.split(" ")
-        amount = int(split[1])
-        start = int(split[3])
-        finish = int(split[5])
-        print (f"{line} {amount} {start} {finish}")
-        for num in range(amount):
-            print(f"grab {crates[start][-amount+num]}")
-            print(crates[start])
-            print(crates[finish])
-            crates[finish].append(crates[start][-amount+num])
-            crates[start].pop(-amount+num)
+    lines = []
+    while 1:
+        lines.append(file.readline())
+        if lines[-1][0] == " ":
+            break
+    for index,letter in enumerate(lines[-1]):     
+        if letter.isdigit():
+            stack[letter] = ""
+            for i in range(len(lines)-2,-1,-1):
+                if lines[i][index].isupper() :
+                    stack[letter] += lines[i][index] 
+                    
+    print (stack) 
+    print (file.readline())
+    while 1:
+        line = file.readline().strip()
+        if line == "":
+            break
+        else:   
+            
+            #blank,amount,blank,start,blank,finish = line.split(" ")
+            
+            split = line.split(" ")
+            amount = int(split[1])
+            start = split[3]
+            finish = split[5]
+            
+            print (f"{line} {amount} {start} {finish}")
+            print (f"Grab {amount} from {start}. Its {stack[start][-amount:]}")
+            
+            stack[finish] += stack[start][-amount:]
+            stack[start] = stack[start][:-amount]
+            
+            print (stack[start])
 
-    for stack in crates.values():
-        print(stack[-1])
+    output = ""
+    for col in stack.values():
+        output += col[-1]
+    print (output)
