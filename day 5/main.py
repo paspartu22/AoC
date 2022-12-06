@@ -43,12 +43,8 @@ with open ("data.txt", "r") as file:
             break
         else:   
             
-            #blank,amount,blank,start,blank,finish = line.split(" ")
-            
-            split = line.split(" ")
-            amount = int(split[1])
-            start = split[3]
-            finish = split[5]
+            _,amount,_,start,_,finish = line.split(" ")
+            amount = int(amount)
             
             print (f"{line} {amount} {start} {finish}")
             print (f"Grab {amount} from {start}. Its {stack[start][-amount:]}")
