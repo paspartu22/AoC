@@ -11,16 +11,20 @@ with open("data.txt", "r") as file:
                 elif line.split()[2] == "/":
                     path = ["/"]
                 else:
-                    dirname = line.split()[2]
-                    while dirname in dirs:
-                        dirname += "_"
-                    
-                    path.append(dirname)
-                    dirs[dirname] = 0
+                    path.append(line.split()[2])
+                    dirname = "/"
+                    for dir in path:
+                        if dir != "/":
+                            dirname += dir+"/"
+                    if dirname not in dirs:
+                        dirs[dirname] = 0
 
         elif line.split()[0].isdigit():
+            dirname = "/"
             for dir in path:
-                dirs[dir] += int(line.split()[0])
+                if dir != "/":
+                    dirname += dir+"/"
+                dirs[dirname] += int(line.split()[0])
                 
     print(dirs)
     ''' part 1
@@ -37,4 +41,4 @@ with open("data.txt", "r") as file:
     for dir in dirs:
         if space_need < dirs[dir] < dirs[min_dir]:
             min_dir = dir
-    print (dirs[min_dir])
+    print (f"Dir:{min_dir} space {dirs[min_dir]}")
