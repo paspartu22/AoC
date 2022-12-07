@@ -23,8 +23,18 @@ with open("data.txt", "r") as file:
                 dirs[dir] += int(line.split()[0])
                 
     print(dirs)
+    ''' part 1
     output = 0
     for weight in dirs.values():
         if weight <= 100000:
             output += weight
     print (output)
+    '''
+    # part 2
+    space_need = abs(70000000 - 30000000 - dirs["/"])
+    print(space_need)
+    min_dir = "/"
+    for dir in dirs:
+        if space_need < dirs[dir] < dirs[min_dir]:
+            min_dir = dir
+    print (dirs[min_dir])
