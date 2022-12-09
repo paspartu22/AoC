@@ -27,6 +27,7 @@ with open("data.txt", "r") as file:
                 dirs[dirname] += int(line.split()[0])
                 
     print(dirs)
+    
     ''' part 1
     output = 0
     for weight in dirs.values():
@@ -34,6 +35,7 @@ with open("data.txt", "r") as file:
             output += weight
     print (output)
     '''
+    
     # part 2
     space_need = abs(70000000 - 30000000 - dirs["/"])
     print(space_need)
