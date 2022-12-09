@@ -1,0 +1,1052 @@
+
+Tail moved 1 1
+Distance x -8| y -1
+Distance sum 9
+
+Tail moved 1 1
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 5
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -6| y 4
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -7| y 3
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -8| y 2
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -9| y 1
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -1| y 8
+Distance sum 9
+
+Tail moved 1 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 1| y 8
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 8| y 1
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved -1 1
+Distance x 3| y -7
+Distance sum 10
+
+Tail moved 0 1
+Distance x -1| y -8
+Distance sum 9
+
+Tail moved 1 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 1 1
+Distance x -1| y -8
+Distance sum 9
+
+Tail moved 1 1
+Distance x -2| y -7
+Distance sum 9
+
+Tail moved 1 1
+Distance x -3| y -6
+Distance sum 9
+
+Tail moved 1 1
+Distance x -4| y -5
+Distance sum 9
+
+Tail moved 1 1
+Distance x -5| y -4
+Distance sum 9
+
+Tail moved 1 1
+Distance x -6| y -3
+Distance sum 9
+
+Tail moved 1 1
+Distance x -7| y -2
+Distance sum 9
+
+Tail moved 1 1
+Distance x -8| y -1
+Distance sum 9
+
+Tail moved 1 1
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 3
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -6| y 4
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 1
+Distance x -1| y -8
+Distance sum 9
+
+Tail moved -1 1
+Distance x 2| y -7
+Distance sum 9
+
+Tail moved -1 1
+Distance x 3| y -6
+Distance sum 9
+
+Tail moved -1 1
+Distance x 4| y -5
+Distance sum 9
+
+Tail moved -1 1
+Distance x 3| y -6
+Distance sum 9
+
+Tail moved -1 1
+Distance x 2| y -7
+Distance sum 9
+
+Tail moved -1 1
+Distance x 1| y -8
+Distance sum 9
+
+Tail moved -1 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved 0 1
+Distance x 0| y -9
+Distance sum 9
+
+Tail moved -1 1
+Distance x 1| y -8
+Distance sum 9
+
+Tail moved -1 1
+Distance x 2| y -7
+Distance sum 9
+
+Tail moved -1 1
+Distance x 3| y -6
+Distance sum 9
+
+Tail moved -1 1
+Distance x 4| y -5
+Distance sum 9
+
+Tail moved -1 1
+Distance x 5| y -4
+Distance sum 9
+
+Tail moved -1 1
+Distance x 6| y -3
+Distance sum 9
+
+Tail moved -1 1
+Distance x 7| y -2
+Distance sum 9
+
+Tail moved -1 1
+Distance x 8| y -1
+Distance sum 9
+
+Tail moved -1 1
+Distance x 9| y 0
+Distance sum 9
+
+Tail moved -1 0
+Distance x 9| y 0
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 8| y 1
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 4
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 7| y 4
+Distance sum 11
+
+Tail moved -1 -1
+Distance x 6| y 5
+Distance sum 11
+
+Tail moved -1 -1
+Distance x 5| y 5
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 4| y 6
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 3| y 7
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 2| y 8
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 1| y 9
+Distance sum 10
+
+Tail moved 0 -1
+Distance x -1| y 8
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -1| y 8
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -1| y 8
+Distance sum 9
+
+Tail moved 1 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 1| y 8
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 1
+Distance x 6| y -3
+Distance sum 9
+
+Tail moved -1 1
+Distance x 7| y -2
+Distance sum 9
+
+Tail moved -1 1
+Distance x 8| y -1
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 0
+Distance x 9| y 0
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 8| y 1
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 1| y 8
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 8
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 1| y 8
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 0 -1
+Distance x 0| y 9
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -1| y 8
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 6
+Distance sum 10
+
+Tail moved -1 -1
+Distance x 3| y 7
+Distance sum 10
+
+Tail moved -1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 3
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -6| y 4
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -5| y 5
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -6| y 5
+Distance sum 11
+
+Tail moved 1 -1
+Distance x -7| y 4
+Distance sum 11
+
+Tail moved 1 -1
+Distance x -8| y 3
+Distance sum 11
+
+Tail moved 1 -1
+Distance x -8| y 2
+Distance sum 10
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 0
+Distance x -9| y 0
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -8| y 1
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -7| y 2
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -6| y 3
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -5| y 4
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -4| y 5
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -3| y 6
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -2| y 7
+Distance sum 9
+
+Tail moved 1 -1
+Distance x -1| y 8
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 8| y 1
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 9| y 0
+Distance sum 9
+
+Tail moved -1 0
+Distance x 9| y 0
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 8| y 1
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 7| y 2
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 6| y 3
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 5| y 4
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 4| y 5
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 3| y 6
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 2| y 7
+Distance sum 9
+
+Tail moved -1 -1
+Distance x 1| y 8
+Distance sum 9
