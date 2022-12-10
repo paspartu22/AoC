@@ -34,13 +34,11 @@ class Rope:
 rope = Rope(10)
 visited = [] #visited cells by tail
 
-
 def check_visited():
     if [rope.knots[-1].x, rope.knots[-1].y] not in visited:
         visited.append([rope.knots[-1].x, rope.knots[-1].y])
 
 def main ():   
-    last_move = [0,0]
     with open ("data.txt", "r") as file:
         for line in file:
             for i in range(int(line.split(" ")[1])):
