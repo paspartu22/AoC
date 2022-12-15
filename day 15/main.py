@@ -65,17 +65,12 @@ with open("data.txt", "r") as file:
     #area = 20
     perimeters = []
     for sensor in sensors:
-        for dot in sensor.perimeter():
-            perimeters.append(dot)
-        print(len(perimeters))
-    print ("end of compile")
-    
-    while (1):
-        dot = perimeters.pop()
-        if dot in perimeters:
-            print (dot[0]* 4_000_000 + dot[1])  
-            break
-
+        perimeters.append(sensor.perimeter())
+        print(len(sensor.perimeter()))
+    for perimeter in perimeters:
+        for dot in perimeter:    
+            if not check_cell(dot[0], dot[1]) and 0 < dot[0] < area and 0 < dot[1] < area:
+                print (dot[0]* 4_000_000 + dot[1])
     #print (perimeters)
             
 
