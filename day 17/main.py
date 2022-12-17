@@ -62,7 +62,7 @@ def move_all (rock, type):
             break
 
 
-line = open ("test.txt", "r").readline().strip()
+line = open ("data.txt", "r").readline().strip()
 print (line)
 rocks = {-1:[-1]} # [0,0] in global 
 rocks_coordinate = {0:[],1:[],2:[],3:[],4:[]}
@@ -88,7 +88,8 @@ def print_map(rock):
 
 
 big = 100_000
-big = 2022
+#big = 2022
+
 for i in range (big):
     if i % 1000 == 0:
         print (f"rock {i}")
@@ -97,14 +98,14 @@ for i in range (big):
     type = i%len(rock_shape)
     rock = [[2,max_y+4], rock_shape[type]]
     move_all(rock, type)
-    rocks_coordinate[i%len(rock_shape)].append(rock[0])
+    rocks_coordinate[type].append(rock[0])
     #print_map(rock)
 
 print (max(rocks)+1)
 
-with open('output.txt', 'w') as f:
+with open('output_for_data.txt', 'w') as f:
     for i in range(len(rocks_coordinate[0])):
         s = ""
         for j in range (len(rocks_coordinate)):
-            s += str(rocks_coordinate[j][i]) + ";"
+            s += str(rocks_coordinate[j][i][0]) + ";" + str(rocks_coordinate[j][i][1]) + ";"
         f.write(s + "\n")
