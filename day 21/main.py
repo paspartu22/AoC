@@ -25,7 +25,7 @@ class Monkey:
     def do_root(self):
         left = monkeys[self.result[0]].do_result()
         right = monkeys[self.result[2]].do_result()
-        return [left, right]
+        return left-right
     
         
 with open("data.txt", "r") as file:
@@ -34,24 +34,23 @@ with open("data.txt", "r") as file:
         #print (f" line {line}")
         monkeys[line[0][:-1]] = Monkey(line[1:])
         #print (monkeys[line[0][:-1]])
-    last_diff = 0
-    min = 0
+
     monkeys["humn"].result[0] = int(monkeys["humn"].result[0])
-    max = monkeys["humn"].result[0]
-    while (1):
-        left, right = monkeys["root"].do_root()
-        print(left-right)
-        if left == right:
-            print (f"!answer {monkeys['humn'].result[0]}")
-            break
-        else:
-            if left < right:
-                monkeys["humn"].result[0] = min + ((monkeys["humn"].result[0] - min) // 2)
-                min = monkeys["humn"].result[0]
-            else:
-                monkeys["humn"].result[0] *= 2
-                max = monkeys["humn"].result[0]
-                
+    #3352886133831
+    #print(monkeys["root"].do_root())
+    #print()       
+for i in range(5):
+    diff = monkeys["root"].do_root()
+    print(f" off by {diff}")
+    monkeys["humn"].result[0] += 100
+    new_diff = monkeys["root"].do_root()
+    print (f" off +100 {new_diff}")
+    diff_for_one = diff -  new_diff
+    print(f" off by 100 do {diff_for_one}")
+    print (f"current {monkeys['humn'].result[0]} delta {new_diff/diff_for_one*100}")
+    monkeys["humn"].result[0] += new_diff/diff_for_one*100
+    print(f" off after {monkeys['root'].do_root()}")
+    print(f"answer {monkeys['humn'].result[0]}")
 
                 
     #print (monkeys['root'].do_root())
