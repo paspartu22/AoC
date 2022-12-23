@@ -62,10 +62,44 @@ class Game:
         self.elves = []
         self.elf_map = {}
         
-    def generate_map(self):
-        self.elf_map = {}
+    def generate_map(self):        
+        x_min, y_min = None, None
+        x_max, y_max = None, None
         for elf in self.elves:
-            self.elf_map[str([elf.x, elf.y])] = True   
+            if  x_min is None or elf.x < x_min:
+                x_min = elf.x
+            if y_min is None or  elf.y < y_min:
+                y_min = elf.y
+            if x_max is None or  elf.x > x_max:
+                x_max = elf.x
+            if y_max is None or  elf.y > y_max:
+                y_max = elf.y 
+                
+        for y in range (y_min-1, y_max+2):
+            for x in range(x_min-1, x_max+2):
+                if str([x, y]) not in self.elf_map:
+                    self.elf_map[x, y] = False
+        for elf in self.elves:
+            self.elf_map[str(elf.x, elf.y)] = True
+        
+    def update_map (self):
+        sides = [] 
+        for elf in self.elves:
+            if  x_min is None or elf.x < x_min:
+                x_min = elf.x
+            if y_min is None or  elf.y < y_min:
+                y_min = elf.y
+            if x_max is None or  elf.x > x_max:
+                x_max = elf.x
+            if y_max is None or  elf.y > y_max:
+                y_max = elf.y 
+        self.elf_map = {}
+                
+        for side in range (y_min-1, y_max+2):
+            for x in range(x_min-1, x_max+2):
+                if str([x, y]) not in self.elf_map:
+                    self.elf_map[x, y] = False
+                    
 
     def choose_move(self):
         for elf in self.elves:
@@ -156,7 +190,7 @@ while (1):
     game.choose_move()
     game.compare_move()
     game.do_move()
-    game.generate_map()
+    game.update_map()
     move_num += 1
     game.print_game()
     print (f" Move {move_num}")
